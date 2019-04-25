@@ -1,5 +1,5 @@
 {
-    "name": "geniusts/hijri-dates",
+    "name": "reloadlife/hijri",
     "description": "PHP library to convert Gregorian date to Hijri date and vice versa",
     "autoload": {
         "psr-4": {
